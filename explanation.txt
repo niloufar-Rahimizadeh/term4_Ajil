@@ -1,0 +1,11 @@
+SQL : standard language for accessing and maniplulating database
+SQL : Structured Query Language
+SQL : MySQL, PostgreSQL, Oracle, MariaDB, MSSQL
+
+
+******************MySQL*************************
+Database, Table, Record, Field
+
+SHOW DATABASES;
+CREATE DATABASE name;
+USE database's name;
